@@ -1,0 +1,22 @@
+.navbar-brand {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav {
+  margin-bottom: 10px;
+}
+
+.search-bar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 1%;
+}
+
+.card-title {
+  margin-bottom: 20px;
+}
+
+.alert {
+  padding: 8px;
+}
